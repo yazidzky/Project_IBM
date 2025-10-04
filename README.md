@@ -38,7 +38,7 @@ Aplikasi ini memungkinkan pengguna untuk:
 3. Aplikasi siap digunakan!
 
 Atau akses langsung melalui link deployment:
-[Link Deployment](https://your-deployment-link.netlify.app)
+[Link Deployment]([https://your-deployment-link.netlify.app](https://project-ibm-five.vercel.app/))
 
 ## Dukungan AI (IBM Granite)
 
@@ -54,4 +54,5 @@ AI tidak disertakan dalam produk akhir, hanya digunakan selama fase pengembangan
 
 ## Screenshot
 
-![To-Do List App](screenshot.png)
+![To-Do List App](<img width="1862" height="884" alt="image" src="https://github.com/user-attachments/assets/52552607-dc3b-4c68-8a9f-5fd7573617a4" />
+)
