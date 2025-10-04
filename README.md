@@ -53,6 +53,5 @@ AI digunakan selama fase pengembangan untuk:
 AI tidak disertakan dalam produk akhir, hanya digunakan selama fase pengembangan.
 
 ## Screenshot
-
-![To-Do List App]<img width="1712" height="854" alt="image" src="https://github.com/user-attachments/assets/61227482-37fc-42bd-b875-51c311769294" />
+<img width="1712" height="854" alt="image" src="https://github.com/user-attachments/assets/61227482-37fc-42bd-b875-51c311769294" />
 
